@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/your-scent-reminds-me/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Your Scent Reminds Me](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-scent-reminds-me/) |
+| **Get License** | [Official Music Licensing for Your Scent Reminds Me](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-scent-reminds-me/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I keep the window open for a breeze
+> But all it brings is memories
+> Of how you laughed and pulled me near
+> Now I’m just wishing you were here
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
