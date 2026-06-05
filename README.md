@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/your-scent-reminds-me/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Your Scent Reminds Me](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-scent-reminds-me/) |
+| **Get License** | [Secure Licensing Rights for Your Scent Reminds Me](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-scent-reminds-me/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `dfa6fb7d93a191dd2cd73ba5e59cab8d0af9b7ee04bd7565cb9fe0bf461ee0af` |
 | **Timestamp** | June 05, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

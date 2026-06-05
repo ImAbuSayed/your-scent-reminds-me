@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Your Scent Reminds Me
+
+This log tracks the cryptographic history and versioning for the song **Your Scent Reminds Me** (your-scent-reminds-me).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-05T22:11:21.776752 | `v1` | `dfa6fb7d93a191dd2cd73ba5e59cab8d0af9b7ee04bd7565cb9fe0bf461ee0af` | `f31bfaa43ea05f95443156d1c2ce7da1604ca45aa78ae36d6083848e3bc80aa3` | `2026-06-05_your-scent-reminds-me-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
